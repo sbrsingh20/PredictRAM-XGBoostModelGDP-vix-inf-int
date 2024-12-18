@@ -1,0 +1,13 @@
+Model Evaluation for BAJAJFINSV.xlsx
+========================================
+Model: XGBoost
+Accuracy (R-squared %): -18.1240%
+Mean Squared Error: 0.0002
+========================================
+Sample Predictions on Test Data:
+   Actual  Predicted
+-0.002883   0.005147
+ 0.008383   0.002928
+ 0.012238  -0.002201
+-0.006683  -0.004604
+ 0.008783   0.001570

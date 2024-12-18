@@ -1,0 +1,13 @@
+Model Evaluation for AXISBANK.xlsx
+========================================
+Model: XGBoost
+Accuracy (R-squared %): -2.5477%
+Mean Squared Error: 0.0001
+========================================
+Sample Predictions on Test Data:
+   Actual  Predicted
+ 0.011641   0.000634
+ 0.006352   0.004512
+ 0.017358  -0.001903
+-0.009533  -0.000789
+ 0.008516   0.002513

@@ -1,0 +1,13 @@
+Model Evaluation for BEL.xlsx
+========================================
+Model: XGBoost
+Accuracy (R-squared %): -13.2655%
+Mean Squared Error: 0.0003
+========================================
+Sample Predictions on Test Data:
+   Actual  Predicted
+-0.015056   0.005408
+-0.007000   0.004653
+ 0.019394   0.000764
+-0.016070  -0.002471
+-0.008790   0.004365

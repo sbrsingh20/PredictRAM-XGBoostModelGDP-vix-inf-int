@@ -1,0 +1,13 @@
+Model Evaluation for BHARTIARTL.xlsx
+========================================
+Model: XGBoost
+Accuracy (R-squared %): -13.1508%
+Mean Squared Error: 0.0002
+========================================
+Sample Predictions on Test Data:
+   Actual  Predicted
+ 0.006450   0.003465
+-0.001133   0.005731
+ 0.034911   0.003995
+ 0.003025  -0.002963
+ 0.032833  -0.002441

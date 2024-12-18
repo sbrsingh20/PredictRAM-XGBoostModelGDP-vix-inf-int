@@ -1,0 +1,13 @@
+Model Evaluation for BAJFINANCE.xlsx
+========================================
+Model: XGBoost
+Accuracy (R-squared %): -5.4307%
+Mean Squared Error: 0.0002
+========================================
+Sample Predictions on Test Data:
+   Actual  Predicted
+ 0.005426   0.005446
+ 0.003548  -0.002585
+ 0.007370  -0.004637
+-0.007683  -0.001335
+ 0.002803  -0.001495

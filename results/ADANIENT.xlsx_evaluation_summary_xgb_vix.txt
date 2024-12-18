@@ -1,0 +1,13 @@
+Model Evaluation for ADANIENT.xlsx
+========================================
+Model: XGBoost
+Accuracy (R-squared %): -59.9254%
+Mean Squared Error: 0.0025
+========================================
+Sample Predictions on Test Data:
+   Actual  Predicted
+ 0.001567   0.006412
+-0.010926   0.001915
+-0.001113   0.004832
+-0.058774  -0.067533
+ 0.169389   0.016027

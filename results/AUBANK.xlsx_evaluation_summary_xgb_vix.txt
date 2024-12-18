@@ -1,0 +1,13 @@
+Model Evaluation for AUBANK.xlsx
+========================================
+Model: XGBoost
+Accuracy (R-squared %): -11.8838%
+Mean Squared Error: 0.0002
+========================================
+Sample Predictions on Test Data:
+   Actual  Predicted
+-0.020850   0.013352
+-0.003751   0.005391
+-0.004836  -0.010078
+-0.017033  -0.001014
+ 0.019465  -0.000550

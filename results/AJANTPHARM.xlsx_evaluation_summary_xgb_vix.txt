@@ -1,0 +1,13 @@
+Model Evaluation for AJANTPHARM.xlsx
+========================================
+Model: XGBoost
+Accuracy (R-squared %): -23.1919%
+Mean Squared Error: 0.0005
+========================================
+Sample Predictions on Test Data:
+   Actual  Predicted
+ 0.002233   0.005625
+-0.025696   0.008590
+-0.005917   0.003353
+ 0.014203  -0.002348
+ 0.003716   0.004334

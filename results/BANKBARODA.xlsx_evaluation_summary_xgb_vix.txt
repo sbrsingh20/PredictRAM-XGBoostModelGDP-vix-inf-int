@@ -1,0 +1,13 @@
+Model Evaluation for BANKBARODA.xlsx
+========================================
+Model: XGBoost
+Accuracy (R-squared %): -5.9202%
+Mean Squared Error: 0.0004
+========================================
+Sample Predictions on Test Data:
+   Actual  Predicted
+-0.003654   0.006248
+-0.005619   0.000346
+ 0.012956   0.003247
+-0.015288  -0.006737
+ 0.050106   0.005631

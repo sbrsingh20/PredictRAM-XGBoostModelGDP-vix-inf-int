@@ -1,0 +1,13 @@
+Model Evaluation for BHEL.xlsx
+========================================
+Model: XGBoost
+Accuracy (R-squared %): -23.3614%
+Mean Squared Error: 0.0005
+========================================
+Sample Predictions on Test Data:
+   Actual  Predicted
+-0.000663   0.008167
+ 0.011103   0.020377
+ 0.047608   0.006209
+-0.010359  -0.012218
+-0.001337   0.004508

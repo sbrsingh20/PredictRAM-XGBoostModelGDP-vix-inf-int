@@ -1,0 +1,13 @@
+Model Evaluation for BLUESTARCO.xlsx
+========================================
+Model: XGBoost
+Accuracy (R-squared %): -5.9131%
+Mean Squared Error: 0.0005
+========================================
+Sample Predictions on Test Data:
+   Actual  Predicted
+ 0.003073   0.004042
+-0.011904   0.008500
+ 0.023159   0.007380
+ 0.000846   0.005985
+ 0.008229  -0.002436

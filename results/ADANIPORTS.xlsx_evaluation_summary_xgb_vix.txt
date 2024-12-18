@@ -1,0 +1,13 @@
+Model Evaluation for ADANIPORTS.xlsx
+========================================
+Model: XGBoost
+Accuracy (R-squared %): -25.0246%
+Mean Squared Error: 0.0007
+========================================
+Sample Predictions on Test Data:
+   Actual  Predicted
+-0.000228   0.003511
+-0.011793   0.002087
+-0.001387   0.007410
+ 0.001815  -0.016448
+ 0.099133   0.002737

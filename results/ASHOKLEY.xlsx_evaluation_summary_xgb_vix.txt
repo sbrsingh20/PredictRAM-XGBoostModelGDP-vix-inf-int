@@ -1,0 +1,13 @@
+Model Evaluation for ASHOKLEY.xlsx
+========================================
+Model: XGBoost
+Accuracy (R-squared %): -15.8679%
+Mean Squared Error: 0.0002
+========================================
+Sample Predictions on Test Data:
+   Actual  Predicted
+-0.013610   0.003676
+ 0.001966   0.003290
+-0.006914   0.000390
+-0.002351  -0.004781
+-0.000689  -0.000336
